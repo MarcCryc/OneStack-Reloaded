@@ -1,0 +1,6 @@
+name: OneStack-reloaded
+version: 1.0.0
+author: cryc
+main: de.cryc.onestack.main.OneStack
+
+commands:
